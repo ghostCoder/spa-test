@@ -1,0 +1,1 @@
+alert('from cdn file');
